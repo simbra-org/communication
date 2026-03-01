@@ -13,16 +13,30 @@ This repository contains the source files for the communication materials of the
 
 ## Tools
 
-We work exclusively with open-source tools and platforms to ensure accessibility and collaboration. Some of the key tools we use include:
+We work exclusively with open-source tools and platforms to ensure accessibility and collaboration. Some of the key tools we use are listed below.
 
-- [GIMP](https://www.gimp.org/): An open-source tool for bitmap image editing and manipulation. An substitute for Adobe Photoshop.
-- [Inkscape](https://inkscape.org/): An open-source vector graphics editor, a powerful alternative to Adobe Illustrator.
-- [Audacity](https://www.audacityteam.org/): An open-source audio editing software, a great alternative to Adobe Audition.
-- [Kdenlive](https://kdenlive.org/): An open-source video editing software, a robust alternative to Adobe Premiere Pro.
-- [Synfig Studio](https://www.synfig.org/): An open-source 2D animation software, a powerful alternative to Adobe Animate.
-- [Blender](https://www.blender.org/): An open-source 3D creation suite, a comprehensive alternative to Adobe Dimension.
+### Design
 
-For document rendering our main tool is [Quarto](https://quarto.org/), due to its language-agnostic design and powerful integration with [Pandoc](https://pandoc.org/).
+Adobe files are strictly prohibited in our workflow. Instead, we rely on the following open-source tools:
+
+- [GIMP](https://www.gimp.org/): Open-source bitmap image editor. A solid substitute for Adobe Photoshop.
+- [Inkscape](https://inkscape.org/): Open-source vector graphics editor and a capable alternative to Adobe Illustrator.
+- [Audacity](https://www.audacityteam.org/): Open-source audio editor, a practical alternative to Adobe Audition.
+- [Kdenlive](https://kdenlive.org/): Open-source video editor and a robust alternative to Adobe Premiere Pro.
+- [Synfig Studio](https://www.synfig.org/): Open-source 2D animation software, a strong alternative to Adobe Animate.
+- [Blender](https://www.blender.org/): Open-source 3D creation suite and a comprehensive alternative to Adobe Dimension.
+
+### Documentation
+
+Our main tool for document rendering is [Quarto](https://quarto.org/), chosen for its language-agnostic design and tight integration with [Pandoc](https://pandoc.org/).
+
+### Web
+
+Domain registration and management is handled through [Porkbun](https://porkbun.com/).
+
+For image hosting, we usually go with [imgbb](https://ibb.co/).
+
+For webpage hosting, we use [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/).
 
 ## Contributing
 
@@ -44,7 +58,7 @@ Code in this repository is licensed under the GNU General Public License Version
 
 
 ``` text
-Copyright (C) 2025 Daniel Vartanian
+Copyright (C) 2026 Interdisciplinary Brazilian Symposium on Agent-Based Models (SIMBRA)
 
 The code in this repository is free software: you can redistribute it and/or
 modify it under the terms of the GNU General Public License as published by the
