@@ -1,14 +1,36 @@
-<div id="organizadores" >
+<div id="organizadores" ng-controller="AreaSitePalestrantesController">
   <div style="margin-top:50px;" class="">
     <div class="text-center">
-
       <div class="row" >
 
-        <div class="clearfix" ng-if="$index % 4==0"></div>
         <div class="col-md-3">
-          <div class="nome-foto-palestrante" >
+          <div class="nome-foto-palestrante" ng-click="abrirModalPalestrante({
+              nome: 'Daniel Vartanian',
+              urlFoto: 'https://i.ibb.co/7tkKpfZX/daniel-vartanian.png',
+              descricaoCurta: 'Universidade de São Paulo',
+              resumoProfissional: 'Resumo profisional',
+              listaRedesSociaisPalestrante: [{
+                  ativo: true,
+                  linkRedeSocial: 'https://orcid.org/0000-0001-7782-759X ',
+                  logoSvgColor: 'https://static.even3.com/assets/company-logos/color/orcid.svg',
+                  logoSvgPB: 'https://static.even3.com/assets/company-logos/pb/orcid-square.svg',
+                  logoPng: ''
+              }, {
+                  ativo: true,
+                  linkRedeSocial: 'https://scholar.google.com/citations?user=EYp2CJ4AAAAJ&hl=pt-BR',
+                  logoSvgColor: '',
+                  logoSvgPB: '',
+                  logoPng: 'https://static.even3.com/company-logo/logo.clearbit.com/scholar.google.com'
+              }, {
+                  ativo: true,
+                  linkRedeSocial: 'http://lattes.cnpq.br/3858825858568287 ',
+                  logoSvgColor: 'https://static.even3.com/assets/company-logos/color/Lattes.svg',
+                  logoSvgPB: 'https://static.even3.com/assets/company-logos/pb/lattes-square.svg',
+                  logoPng: ''
+              }]
+            })">
             <div class="avatar">
-              <a href="https://danielvartan.com" target="_blank"><img class="avatar img-circle" loading="lazy" src="https://i.ibb.co/7tkKpfZX/daniel-vartanian.png"></a>
+              <img class="avatar img-circle" loading="lazy" src="https://i.ibb.co/7tkKpfZX/daniel-vartanian.png">
             </div>
             <p>Daniel Vartanian</p>
           </div>
@@ -18,7 +40,7 @@
         <div class="col-md-3">
           <div class="nome-foto-palestrante" >
             <div class="avatar">
-              <a href="https://www.linkedin.com/in/dlojudice/" target="_blank"><img class="avatar img-circle" loading="lazy" src="https://i.ibb.co/TDcJtvV1/david-lojudice.png"></a>
+              <img class="avatar img-circle" loading="lazy" src="https://i.ibb.co/TDcJtvV1/david-lojudice.png">
             </div>
             <p>David Lojudice</p>
           </div>
