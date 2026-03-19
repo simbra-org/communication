@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100"
+   height="850"
+   viewBox="0 0 1100 850"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="name-tag.svg"
+   inkscape:export-filename="name-tag.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="0.49953305"
+     inkscape:cx="446.41691"
+     inkscape:cy="485.45337"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <sodipodi:guide
+       position="50,850"
+       orientation="-1,0"
+       id="guide5"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="1050,750"
+       orientation="-1,0"
+       id="guide6"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,800"
+       orientation="0,1"
+       id="guide7"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,-50"
+       orientation="0,1"
+       id="guide8"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="550,900"
+       orientation="-1,0"
+       id="guide9"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,475"
+       orientation="0,1"
+       id="guide15"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,100"
+       orientation="0,1"
+       id="guide16"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="-50,637.5"
+       orientation="0,1"
+       id="guide17"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="158.1477"
+       y="998.93291"
+       width="762.7123"
+       height="242.22622"
+       id="rect9" />
+    <rect
+       x="-394.36829"
+       y="788.73663"
+       width="639.94769"
+       height="149.8042"
+       id="rect2" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter15"
+       x="-0.0072"
+       y="-0.0096"
+       width="1.0204"
+       height="1.0272">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.25447978670634919"
+         flood-color="rgb(0,0,0)"
+         id="feFlood14" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="3.000000"
+         id="feGaussianBlur14" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="6.000000"
+         dy="6.000000"
+         id="feOffset14" />
+      <feComposite
+         result="comp1"
+         operator="in"
+         in="flood"
+         in2="offset"
+         id="feComposite14" />
+      <feComposite
+         result="comp2"
+         operator="over"
+         in="SourceGraphic"
+         in2="comp1"
+         id="feComposite15" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0000;stroke-width:0.0105404;stroke-linecap:square;stroke-miterlimit:5;filter:url(#filter15)"
+       id="rect1"
+       width="1000"
+       height="750"
+       x="50"
+       y="50"
+       ry="44.69923"
+       inkscape:label="Background" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.0105403;stroke-linecap:square;stroke-miterlimit:5"
+       id="rect1-3"
+       width="1000"
+       height="375.00003"
+       x="50"
+       y="375"
+       inkscape:label="Area" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.9725893,0,0,1.9725893,696.74985,-1430.0408)"
+       id="text1"
+       style="font-weight:500;font-size:65.3333px;line-height:0.75;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#ffffff;stroke-width:0.00534336;stroke-linecap:square;stroke-miterlimit:5"
+       inkscape:label="OLÁ"><tspan
+         x="-178.48325"
+         y="846.12046"
+         id="tspan6"><tspan
+           style="font-size:85.764px;letter-spacing:5.06948px"
+           id="tspan1">OLÁ</tspan><tspan
+           dx="5.0694733"
+           style="font-weight:800;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+           id="tspan5">
+</tspan></tspan><tspan
+         x="-213.54653"
+         y="896.77341"
+         id="tspan8"><tspan
+           style="font-size:42.882px"
+           id="tspan7">meu nome é</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Tag" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Name">
+    <text
+       xml:space="preserve"
+       id="text9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:semi-condensed;font-size:133.333px;line-height:0.75;font-family:'Merriweather 120pt SemiCondensed';-inkscape-font-specification:'Merriweather 120pt SemiCondensed,  Bold Semi-Condensed';text-align:center;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000;stroke-width:0.0228891;stroke-linecap:square;stroke-miterlimit:5"
+       transform="matrix(1.740447,0,0,1.740447,-403.13351,-1246.2461)"
+       inkscape:label="Daniel"><tspan
+         x="347.57108"
+         y="1086.6422"
+         id="tspan11"><tspan
+           style="font-weight:normal;font-stretch:normal;font-family:Knewave;-inkscape-font-specification:Knewave"
+           id="tspan10">Daniel</tspan></tspan></text>
+  </g>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Daniel Vartanian</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

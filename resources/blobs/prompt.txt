@@ -1,0 +1,8 @@
+All blob must have the same shape and size.
+
+Use the following color palette:
+
+  0 208   0   Green
+255 208   0   Yellow
+ 24  62 255   Blue
+255   0   0   Red
