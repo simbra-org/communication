@@ -1,4 +1,4 @@
-<div id="comite-cientifico" ng-controller="AreaSitePalestrantesController">
+<div id="comissao-organizadora" ng-controller="AreaSitePalestrantesController">
   <div style="margin-top:50px;" class="">
     <div class="text-center">
 
@@ -78,6 +78,19 @@
         </div>
 
         <div class="clearfix" ng-if="$index % 4==0"></div>
+        <div class="col-md-3" ng-init="itemAreaSiteEvento = (areaSiteEvento | filter: {idAreaSiteEvento: 2596515})[0]; item23614559 = (itemAreaSiteEvento.jsonObj | filter: {idPessoa: 23614559}:true)[0]">
+          <div class="nome-foto-palestrante" ng-click="abrirModalPalestrante(item23614559)">
+            <div class="avatar">
+              <img class="avatar img-circle" loading="lazy" src="https://i.ibb.co/GfKnkLnr/michael-barton.png">
+            </div>
+            <p>Michael Barton</p>
+          </div>
+        </div>
+
+      </div>
+      <div class="row" >
+
+        <div class="clearfix" ng-if="$index % 4==0"></div>
         <div class="col-md-3" ng-init="itemAreaSiteEvento = (areaSiteEvento | filter: {idAreaSiteEvento: 2596515})[0]; item23614541 = (itemAreaSiteEvento.jsonObj | filter: {idPessoa: 23614541}:true)[0]">
           <div class="nome-foto-palestrante" ng-click="abrirModalPalestrante(item23614541)">
             <div class="avatar">
@@ -86,9 +99,6 @@
             <p>Murilo Mazzotti Silvestrini</p>
           </div>
         </div>
-
-      </div>
-      <div class="row" >
 
         <div class="clearfix" ng-if="$index % 4==0"></div>
         <div class="col-md-3" ng-init="itemAreaSiteEvento = (areaSiteEvento | filter: {idAreaSiteEvento: 2596515})[0]; item4458407 = (itemAreaSiteEvento.jsonObj | filter: {idPessoa: 4458407}:true)[0]">
