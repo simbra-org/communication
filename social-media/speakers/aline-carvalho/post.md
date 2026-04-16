@@ -6,7 +6,7 @@
 
 Aline Martins de Carvalho está confirmada no 1° Simpósio Interdisciplinar Brasileiro de Modelos Baseados em Agentes (SIMBRA)! 🇧🇷
 
-Coordena o Sustentarea, núcleo de pesquisa da Universidade de São Paulo (USP) dedicado à alimentação sustentável. Utiliza modelos baseados em agentes para simular cenários de políticas alimentares e investigar como os sistemas alimentares contribuem para a sindemia global de desnutrição, obesidade e mudanças climáticas. Integra a Rede Resiclima e o Grupo de Estudos em Saúde Planetária do IEA/USP. É docente da Faculdade de Saúde Pública da USP e foi pesquisadora visitante na Harvard School of Public Health e na University of Michigan, além de Travel Scholar no Planetary Health Annual Meeting, realizado em Stanford.
+Coordena o Sustentarea, núcleo de pesquisa da Universidade de São Paulo dedicado à alimentação sustentável. Utiliza modelos baseados em agentes para simular cenários de políticas alimentares e investigar como os sistemas alimentares contribuem para a sindemia global de desnutrição, obesidade e mudanças climáticas. Integra a Rede RESICLIMA e o Grupo de Estudos em Saúde Planetária do Instituto de Estudos Avançados da USP. É docente da Faculdade de Saúde Pública da USP e foi pesquisadora visitante na Harvard T.H. Chan School of Public Health e na University of Michigan, além de Travel Scholar no Planetary Health Annual Meeting da Planetary Health Alliance, realizado em Stanford.
 
 🔗 Saiba mais em: https://simbra.com.br
 
