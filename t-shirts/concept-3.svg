@@ -29,9 +29,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.5"
-     inkscape:cx="792"
-     inkscape:cy="426"
+     inkscape:zoom="2"
+     inkscape:cx="740.5"
+     inkscape:cy="480.5"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -85,7 +85,8 @@
        id="rect10-2" /></defs><g
      inkscape:label="Base"
      inkscape:groupmode="layer"
-     id="layer1"><image
+     id="layer1"
+     sodipodi:insensitive="true"><image
        width="1715.5612"
        height="1000"
        preserveAspectRatio="none"
@@ -109,7 +110,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Agents"
-     style="display:none;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"><image
+     style="display:none;fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+     sodipodi:insensitive="true"><image
        width="2824.8677"
        height="2824.8677"
        preserveAspectRatio="none"
@@ -543,8 +545,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Logo"
-     transform="translate(-3.4362269,-2.7700817)"
-     sodipodi:insensitive="true"><g
+     transform="translate(-3.4362269,-2.7700817)"><g
        id="text1-3"
        style="font-weight:bold;font-size:236.518px;font-family:Oswald;-inkscape-font-specification:'Oswald Bold';letter-spacing:0px;word-spacing:0px;display:inline;stroke-width:18.1022;stroke-linecap:round;stroke-miterlimit:0"
        inkscape:label="SIMBRA"
